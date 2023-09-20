@@ -33,6 +33,6 @@ public class Main {
 
         //run output ending/asking for restart of the saying
         System.out.println("0 bottles of beer on the wall, 0 bottles of beer.");
-        System.out.println("Go to the store and buy some more, 5 bottles of beer on the wall.");
+        System.out.println("Go to the store and buy some more, " + total + " bottles of beer on the wall.");
     }
 }
