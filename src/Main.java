@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Main
+{
+    public static void main(String[] args)
+    {
         //ask and receive input
         System.out.print("Enter number of bottles to start with: ");
         Scanner s = new Scanner(System.in);
